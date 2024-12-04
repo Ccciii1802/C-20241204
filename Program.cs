@@ -8,7 +8,7 @@ namespace _20241204
 {
     internal class Program
     {
-        //1112410047
+        //1112410047_鍾采倚
         public static double CountPi(int n)
         {
             if (n < 4 || n > 20) // 增加範圍到 20
